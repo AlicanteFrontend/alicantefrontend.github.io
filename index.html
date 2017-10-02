@@ -7,15 +7,36 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Alicante Frontend</title>
     <style>
+    html {
+        box-sizing: border-box;
+        padding: 15px;
+    }
+
+    *,
+    *:before,
+    *:after {
+        box-sizing: inherit;
+    }
+
     body {
+        margin: 0;
         display: flex;
         flex-direction: column;
         min-height: 75vh;
         justify-content: center;
         align-items: center;
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+        line-height: 1.4;
         font-weight: 300;
+        color: #666;
+    }
+
+    a {
         color: #3A84D0;
+    }
+
+    a:hover {
+        color: #333;
     }
 
     .title {
@@ -33,13 +54,40 @@
 
     .logo {
         display: block;
-        max-width: 90%;
+        max-width: 95%;
         width: 700px;
         height: auto;
     }
 
-    .text {
-        color: #666;
+    .under-construction {
+        font-size: 0.9em;
+        margin-bottom: 3em;
+    }
+
+    .list {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        text-align: center;
+    }
+
+    .list>* {
+        margin-bottom: 5px;
+    }
+
+    @media (min-width: 640px) {
+        .list {
+            display: flex;
+            justify-content: space-between;
+            list-style: none;
+            width: 600px;
+            max-width: 100%;
+        }
+
+        .list>* {
+            margin-right: 10px;
+            margin-left: 10px;
+        }
     }
     </style>
 </head>
@@ -47,7 +95,18 @@
 <body>
     <h1 class="title">Alicante Frontend</h1>
     <img class="logo" src="src/img/alicante-frontend-logo.svg" alt="Alicante Frontend Logo" />
-    <p class="text">En construcción</p>
+    <p class="under-construction">En construcción</p>
+    <ul class="list">
+        <li>
+            <a href="https://www.meetup.com/es-ES/preview/Alicante-Frontend">Ver próximos eventos</a>
+        </li>
+        <li>
+            <a href="http://alicantefrontend.herokuapp.com/">Únete a nuestro Slack</a>
+        </li>
+        <li>
+            <a href="https://twitter.com/AlicanteFront">Síguenos en Twitter</a>
+        </li>
+    </ul>
 </body>
 
 </html>
