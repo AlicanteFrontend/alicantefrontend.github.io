@@ -10,16 +10,16 @@ html {
 }
 
 body {
-    margin: 0;
+    align-items: center;
+    color: #666;
     display: flex;
     flex-direction: column;
-    min-height: 75vh;
-    justify-content: center;
-    align-items: center;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-    line-height: 1.4;
     font-weight: 300;
-    color: #666;
+    justify-content: center;
+    line-height: 1.4;
+    margin: 0;
+    min-height: 75vh;
 }
 
 a {
@@ -32,8 +32,8 @@ a:hover {
 
 .title {
     border: 0;
-    clip: rect(0 0 0 0);
     clip-path: inset(50%);
+    clip: rect(0 0 0 0);
     height: 1px;
     margin: -1px;
     overflow: hidden;
@@ -45,9 +45,9 @@ a:hover {
 
 .logo {
     display: block;
+    height: auto;
     max-width: 95%;
     width: 700px;
-    height: auto;
 }
 
 .under-construction {
@@ -56,9 +56,9 @@ a:hover {
 }
 
 .list {
-    padding: 0;
-    margin: 0;
     list-style: none;
+    margin: 0;
+    padding: 0;
     text-align: center;
 }
 
@@ -71,12 +71,12 @@ a:hover {
         display: flex;
         justify-content: space-between;
         list-style: none;
-        width: 600px;
         max-width: 100%;
+        width: 600px;
     }
 
     .list>* {
-        margin-right: 10px;
         margin-left: 10px;
+        margin-right: 10px;
     }
 }
