@@ -41,7 +41,7 @@ footer {
     padding-bottom: 1rem;
  }
 
- footer a {
+ footer .footer-right-link {
      float: right;
  }
 
