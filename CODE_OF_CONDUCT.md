@@ -2,19 +2,23 @@
 
 ## 1. Propósito
 
-Un objetivo primordial de Python España es ser inclusivos con el mayor número de colaboradores, con los más variados y diversos antecedentes posibles. Como tal, estamos comprometidos a proveer un ambiente amigable, seguro y acogedor para todos, independientemente del género, orientación sexual, habilidad, etnia, condiciones socioeconómicas y religión (o falta de ella).
+Alicante Frontend es una comunidad de desarrolladoras y desarrolladores frontend de Alicante y alrededores sin ánimo de lucro. La finalidad de esta comunidad es compartir conocimiento y contar experiencias sobre desarrollo que solemos disfrutar y sufrir en nuestro día a día.
+Un objetivo primordial de  es ser inclusivos con el mayor número de colaboradores, independientemente del género, orientación sexual, habilidad, etnia, condiciones socioeconómicas y religión (o falta de ella).
 
 Este código de conducta esboza nuestras expectativas para todos aquellos que participan en nuestra comunidad, así como las consecuencias de un comportamiento inaceptable.
 
-Invitamos a todos los que participan en Python España a ayudarnos a crear experiencias seguras y positivas para todos.
+Invitamos a todos los que participan en Alicante Frontend a ayudarnos a crear experiencias seguras y positivas para todos.
 
 ## 2. Civismo en el código abierto
 
 Una meta complementaria de este código de conducta es aumentar el civismo en la comunidad del código abierto, alentando a los participantes a reconocer y fortalecer las relaciones entre nuestras acciones y sus efectos en nuestra comunidad.
 
-Las comunidades reflejan las sociedades en las que existen y la acción positiva es esencial para contrarrestar las muchas formas de desigualdad y abusos de poder que existen en la sociedad.
+Los temas dentro de la comunidad están relacionados con el ámbito del desarrollo frontend y el sector de la informática, si una o un integrante de la comunidad pudieran sentirse violenta o violento por un tema que no tiene nada que ver con el desarrollo o el sector de la informática, y pidiera redirigir la conversación, se volvería a los temas planificados en la agenda de la jornada. Solo se usará el canal #random de Slack para temas más transversales y siempre cumpliendo con el resto de puntos de este código.
 
-Si ve a alguien que esté haciendo un esfuerzo destacado para ayudar a que nuestra comunidad sea acogedora, amistosa y anime a todos los participantes a contribuir al máximo, queremos saberlo.
+La participación activa o pasiva en las actividades del grupo son opcionales y no conllevan obligación.
+Cualquier persona que decida tomar la palabra, podrá hacerlo siempre que sea respetando las opiniones de los demás y cumpliendo con el resto de puntos de este código de conducta.
+
+Si ve a alguien que esté haciendo un esfuerzo destacado para ayudar a que nuestra comunidad sea acogedora, amistosa y anime a todos los participantes a contribuir al máximo,queremos saberlo.
 
 ## 3. Comportamiento esperado
 
@@ -48,21 +52,24 @@ Los siguientes comportamientos se consideran acoso y son inaceptables en el seno
 
 No se tolerarán estos comportamientos inaceptables en ningún participante del evento incluidos asistentes, patrocinadores, personas voluntarias o personal de la organización.
 
-De cualquier persona a la que se le pida desistir de un comportamiento inaceptable, se espera que cumpla de inmediato.
+Las medidas que se tomarán por una infracción dependerán del contexto. Pueden ser:
 
-Si un miembro de la comunidad incurre en un comportamiento inaceptable, los organizadores de la comunidad pueden tomar cualquier acción que consideren apropiada, incluyendo una expulsión temporal o permanente de la comunidad con carácter inmediato (y sin reembolso en caso de un evento pagado).
+Expulsión del infractor de la comunidad por una infracción grave.
+Expulsión del infractor de la comunidad por reincidencia de infracciones.
+Aviso por infracción y petición de disculpa hacia la comunidad.
+Aviso por infracción leve.
 
 ## 6. Pautas para presentar una queja
 
-Si usted es víctima o testigo de un comportamiento inaceptable, o tiene cualquier otra inquietud, por favor notifíquelo a un organizador de la comunidad en contacto2017@es.python.org, tan pronto como sea posible.
+Si usted es víctima o testigo de un comportamiento inaceptable, o tiene cualquier otra inquietud, por favor notifíquelo a un organizador de la comunidad.
 
 Al contactar, indique el nombre del evento y en qué parte de las instalaciones se está produciendo la violación del código de conducta, y explique brevemente la naturaleza del incidente.
 
-Los organizadores de la comunidad facilitarán el contacto por parte de los miembros de la comunidad con las autoridades locales y ayudarán, de cualquier otra forma, a aquellos que sean víctimas de comportamientos inaceptables, a sentirse seguros. En el contexto de eventos presenciales, los organizadores también proporcionarán escolta según lo desee la persona afligida.
+Los organizadores de la comunidad facilitarán el contacto por parte de los miembros de la comunidad con las autoridades locales y ayudarán, de cualquier otra forma, a aquellos que sean víctimas de comportamientos inaceptables, a sentirse seguros.
 
 ## 7. Cómo recurrir quejas
 
-Si cree que ha sido falsa o injustamente acusado de violar este código de conducta, debe notificarlo a Python España, en contacto2017@es.python.org, con una descripción concisa de su queja. Esta será gestionada de acuerdo con nuestras políticas vigentes.
+Si cree que ha sido falsa o injustamente acusado de violar este código de conducta, debe notificarlo los organizadores de la comunidad, con una descripción concisa de su queja. Esta será gestionada de acuerdo con nuestras políticas vigentes.
 
 ## 8. Ámbito
 
@@ -72,14 +79,8 @@ Este código de conducta y sus procedimientos relacionados también se aplican a
 
 ## 9. Información de contacto
 
-contacto2017@es.python.org
+alicante-frontend.slack.com
 
 ## 10. Licencia y atribución
 
 Este código de conducta se distribuye bajo una [licencia Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0/).
-
-Partes del texto derivadas del [código de conducta de Django](https://www.djangoproject.com/conduct/) y la [Política de Anti-Hostigamiento de Feminismo Geek](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
-
-El texto se ha traducido al idioma español y se ha adaptado para responder al espíritu de la [asociación Python España](https://es.python.org/) y cumplir con su [normativa interna](http://documentos-asociacion.es.python.org/).
-
-Obtenido el 22 de noviembre de 2016 de [http://citizencodeofconduct.org/](http://citizencodeofconduct.org/)
