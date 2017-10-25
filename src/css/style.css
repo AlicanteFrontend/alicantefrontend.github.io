@@ -30,6 +30,21 @@ a:hover {
     color: #333;
 }
 
+footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    display: block;
+    margin: 0 auto;
+    overflow: hidden;
+    padding-right: 1.5rem;
+    padding-bottom: 1rem;
+ }
+
+ footer a {
+     float: right;
+ }
+
 .title {
     border: 0;
     clip-path: inset(50%);
