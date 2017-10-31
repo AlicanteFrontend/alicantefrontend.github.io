@@ -39,5 +39,5 @@ All meetup attendees and Alicante Frontend Slack members.
 
 Last update: 2017/10/26       
 Standards: HTML5, CSS3, Javascript
-Software: Netlify
+Server: Netlify
 Lang: Spanish

@@ -31,19 +31,19 @@ a:hover {
 }
 
 footer {
-    position:absolute;
-    bottom:0;
-    width:100%;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
     display: block;
     margin: 0 auto;
     overflow: hidden;
     padding-right: 1.5rem;
     padding-bottom: 1rem;
- }
+}
 
- footer .footer-right-link {
-     float: right;
- }
+footer .footer-right-link {
+    float: right;
+}
 
 .title {
     border: 0;
@@ -89,7 +89,6 @@ footer {
         max-width: 100%;
         width: 600px;
     }
-
     .list>* {
         margin-left: 10px;
         margin-right: 10px;
