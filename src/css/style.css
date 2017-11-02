@@ -30,6 +30,21 @@ a:hover {
     color: #333;
 }
 
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    overflow: hidden;
+    padding-right: 1.5rem;
+    padding-bottom: 1rem;
+}
+
+footer .footer-right-link {
+    float: right;
+}
+
 .title {
     border: 0;
     clip-path: inset(50%);
@@ -74,7 +89,6 @@ a:hover {
         max-width: 100%;
         width: 600px;
     }
-
     .list>* {
         margin-left: 10px;
         margin-right: 10px;
