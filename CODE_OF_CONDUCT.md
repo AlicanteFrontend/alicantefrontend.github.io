@@ -79,7 +79,9 @@ Este código de conducta y sus procedimientos relacionados también se aplican a
 
 ## 9. Información de contacto
 
-alicante-frontend.slack.com
+* Email [alicante.frontend@gmail.com](mailto:alicante.frontend@gmail.com)
+* Twitter [@AlicanteFront](https://twitter.com/AlicanteFront)
+
 
 ## 10. Licencia y atribución
 
@@ -168,7 +170,8 @@ This code of conduct and its related procedures also apply to unacceptable behav
 
 ## 9. Contact information
 
-alicante-frontend.slack.com
+* Email [alicante.frontend@gmail.com](mailto:alicante.frontend@gmail.com)
+* Twitter [@AlicanteFront](https://twitter.com/AlicanteFront)
 
 ## 10. License and attribution
 
