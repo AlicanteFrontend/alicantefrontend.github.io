@@ -172,4 +172,4 @@ alicante-frontend.slack.com
 
 ## 10. License and attribution
 
-This code of conduct is distributed under a [Creative Commons Attribution-ShareAlike license] (http://creativecommons.org/licenses/by-sa/3.0/).
+This code of conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
