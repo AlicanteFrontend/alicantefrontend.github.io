@@ -18,7 +18,7 @@ Los temas dentro de la comunidad están relacionados con el ámbito del desarrol
 La participación activa o pasiva en las actividades del grupo son opcionales y no conllevan obligación.
 Cualquier persona que decida tomar la palabra, podrá hacerlo siempre que sea respetando las opiniones de los demás y cumpliendo con el resto de puntos de este código de conducta.
 
-Si ve a alguien que esté haciendo un esfuerzo destacado para ayudar a que nuestra comunidad sea acogedora, amistosa y anime a todos los participantes a contribuir al máximo,queremos saberlo.
+Si ve a alguien que esté haciendo un esfuerzo destacado para ayudar a que nuestra comunidad sea acogedora, amistosa y anime a todos los participantes a contribuir al máximo, queremos saberlo.
 
 ## 3. Comportamiento esperado
 
