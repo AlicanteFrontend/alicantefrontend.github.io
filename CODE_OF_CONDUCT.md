@@ -69,7 +69,7 @@ Los organizadores de la comunidad facilitarán el contacto por parte de los miem
 
 ## 7. Cómo recurrir quejas
 
-Si cree que ha sido falsa o injustamente acusado de violar este código de conducta, debe notificarlo los organizadores de la comunidad, con una descripción concisa de su queja. Esta será gestionada de acuerdo con nuestras políticas vigentes.
+Si cree que ha sido falsa o injustamente acusado de violar este código de conducta, debe notificarlo a los organizadores de la comunidad, con una descripción concisa de su queja. Esta será gestionada de acuerdo con nuestras políticas vigentes.
 
 ## 8. Ámbito
 
