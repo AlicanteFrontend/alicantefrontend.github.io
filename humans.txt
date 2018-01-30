@@ -1,0 +1,43 @@
+/* TEAM */
+Co-founder: Alex Jover
+Site: https://alexjoverm.github.io/
+Twitter: @alexjoverm
+Location: Alicante, Spain
+
+Co-founder: Álvaro Yuste
+Site: http://yuste.info/
+Twitter: @AlvYuste
+Location: Alicante, Spain
+
+Co-founder: Aarón García
+Site: https://aarongarciah.com/
+Twitter: @aarongarciah
+Location: Alicante, Spain
+
+Contributor: Yannick Miñano
+Twitter: @leoynick
+Location: Alicante, Spain      
+
+Contributor: Laura Bonmati
+Site: http://www.laurabonmati.com/
+Twitter: @LauraBonmati
+Location: Alicante, Spain
+
+Contributor: Xavier Serrano
+Site: https://github.com/Zombispormedio
+Twitter: @Zombispormedio
+Location: Alicante, Spain    
+
+							
+/* THANKS */
+Speakers: Alex, Jover, Álvaro Yuste, Aarón García, Flavio Corpa, Kikobeats, Ciro Ivan, Joaquín Oltra, José Manuel Pérez.
+Sponsors: ULab.
+All meetup attendees and Alicante Frontend Slack members.
+                        
+                            
+/* SITE */
+Last update: 2017/10/26       
+Standards: HTML5, CSS3, JavaScript
+Components: -
+Software: VS Code, GitHub, Netlify
+Language: Spanish
