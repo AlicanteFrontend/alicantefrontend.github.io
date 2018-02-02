@@ -129,7 +129,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 * Violence, threats of violence or violent language directed against another person.
 * Jokes and language sexist, racist, homophobic, transphobic, capacitist or discriminatory in any way.
 * Publish or exhibit violent or sexually explicit material.
-* Publish or threaten to publish data identifying other people ([_doxing_] (https://en.wikipedia.org/wiki/Doxing)).
+* Publish or threaten to publish data identifying other people ([_doxing_](https://en.wikipedia.org/wiki/Doxing)).
 * Personal insults, particularly those related to gender, sexual orientation, race, religion or disability.
 * Photograph or inappropriate recording.
 * Inappropriate physical contact. Make sure you have someone's consent before touching him.
