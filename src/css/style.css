@@ -86,13 +86,13 @@ footer .footer-right-link {
     margin-bottom: 5px;
 }
 
-@media (min-width: 640px) {
+@media (min-width: 800px) {
     .list {
         display: flex;
         justify-content: space-between;
         list-style: none;
         max-width: 100%;
-        width: 600px;
+        width: 750px;
     }
     .list>* {
         margin-left: 10px;
