@@ -24,6 +24,7 @@ body {
 
 a {
     color: #3A84D0;
+    text-decoration: none;
 }
 
 a:hover {
@@ -31,7 +32,7 @@ a:hover {
 }
 
 a span {
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 footer {
