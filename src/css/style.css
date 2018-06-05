@@ -30,6 +30,10 @@ a:hover {
     color: #333;
 }
 
+a span {
+    text-decoration: none;
+}
+
 footer {
     position: absolute;
     bottom: 0;
