@@ -68,11 +68,7 @@ footer .footer-right-link {
     height: auto;
     max-width: 95%;
     width: 700px;
-}
-
-.under-construction {
-    font-size: 0.9em;
-    margin-bottom: 3em;
+    margin-bottom: 4rem;
 }
 
 .list {
