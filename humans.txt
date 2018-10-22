@@ -30,9 +30,32 @@ Location: Alicante, Spain
 
 							
 /* THANKS */
-Speakers: Alex, Jover, Álvaro Yuste, Aarón García, Flavio Corpa, Kikobeats, Ciro Ivan, Joaquín Oltra, José Manuel Pérez.
-Sponsors: ULab.
-All meetup attendees and Alicante Frontend Slack members.
+Speakers: 
+    - Alex Jover 👨‍💻 2️⃣
+    - Álvaro Yuste 👨‍💻
+    - Aarón García 👨‍💻
+    - Flavio Corpa 👨‍💻
+    - Kikobeats 👨‍💻 2️⃣
+    - Ciro Ivan 👨‍💻
+    - Joaquín Oltra 👨‍💻
+    - José Manuel Pérez 👨‍💻
+    - Laura Bonmatí 👩‍💻
+    - Alejandro Pérez 👨‍💻
+    - Elad Rodriguez 👨‍💻
+    - Cristina Ponce 👩‍💻
+    - Jose Milán 👨‍💻
+    - Rubén Valseca 👨‍💻
+    - Quique Fdez 👨‍💻
+    - Ignacio García 👨‍💻
+    - Sara Vieira 👩‍💻
+    - Filipa Lacerda 👩‍💻
+    - Jose Viejo 👨‍💻
+
+Sponsors: 
+    - ULab
+    - Suez
+
+Special Mention to all meetup attendees and Alicante Frontend Slack members.
                         
                             
 /* SITE */
