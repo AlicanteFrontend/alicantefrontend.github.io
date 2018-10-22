@@ -1,0 +1,37 @@
+{
+  "name": "alicantefrontend.github.io",
+  "version": "1.0.0",
+  "description": "El ecosistema Frontend es un caos y ¡nos encanta! Si quieres aprender y compartir sobre desarrollo web orientado al Frontend has llegado al sitio correcto.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zombispormedio/alicantefrontend.github.io.git"
+  },
+  "keywords": [
+    "frontend",
+    "website",
+    "Alicante"
+  ],
+  "author": "Alicante Frontend",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zombispormedio/alicantefrontend.github.io/issues"
+  },
+  "homepage": "https://github.com/Zombispormedio/alicantefrontend.github.io#readme",
+  "devDependencies": {
+    "husky": "^1.1.2",
+    "lint-staged": "^7.3.0",
+    "prettier": "^1.14.3"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,json,css,md}": ["prettier --write", "git add"]
+  }
+}
