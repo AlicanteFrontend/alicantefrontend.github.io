@@ -79,7 +79,7 @@ footer .footer-right-link {
 }
 
 .list>* {
-    margin-bottom: 5px;
+    margin-bottom: 1rem;
 }
 
 @media (min-width: 800px) {
