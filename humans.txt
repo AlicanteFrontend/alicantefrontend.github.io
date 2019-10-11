@@ -50,6 +50,20 @@ Speakers:
     - Sara Vieira 👩‍💻
     - Filipa Lacerda 👩‍💻
     - Jose Viejo 👨‍💻
+    - Maxim Valcke 👨‍💻
+    - Tanmai Gopal 👨‍💻
+    - Darek Wedrychowski 👨‍💻
+    - Daniel Ehrenberg 👨‍💻
+    - Evan You 👨‍💻
+    - Marina Aisa 👩‍💻
+    - Alexandre Chopin 👨‍💻
+    - Sebastiend Chopin 👨‍💻
+    - Quique Fdez Guerra 👨‍💻
+    - Ruben Valseca 👨‍💻
+    - Debbie O'Brien 👩‍💻
+    - Eduardo San Martin 👨‍💻
+    - Xavi Serrano 👨‍💻
+    - Marion Schleifer 👩‍💻
 
 Sponsors: 
     - ULab
